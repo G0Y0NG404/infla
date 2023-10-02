@@ -1,3 +1,4 @@
+//specially credited to bemolove < <3
 #include <stdio.h>
 #include <windows.h>
 #include <conio.h>
